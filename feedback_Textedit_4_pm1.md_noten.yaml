@@ -1,0 +1,74 @@
+---
+projektname: "Projektstand und Abschluss Textedit Gruppe 4"
+mitglieder:
+- "bachhmoh@students.zhaw.ch"
+- "topaljas@students.zhaw.ch"
+- "djafeden@students.zhaw.ch"
+- "dubuicol@students.zhaw.ch"
+gesamtnote: 5.78
+maxPunktzahl: 40.0
+totalPunktzahl: 38.25
+kriterien:
+- name: "Projektstand Klassendiagramm"
+  punkte: 4.0
+  bemerkung: null
+  gewicht: 4.0
+  min: 0.0
+  max: 4.0
+  kriteriumBewertung: "1.0"
+- name: "Projektstand Klassenbeschreibung"
+  punkte: 2.0
+  bemerkung: null
+  gewicht: 2.0
+  min: 0.0
+  max: 2.0
+  kriteriumBewertung: "1.0"
+- name: "Projektstand Testkonzept"
+  punkte: 3.0
+  bemerkung: null
+  gewicht: 4.0
+  min: 0.0
+  max: 4.0
+  kriteriumBewertung: "0.75"
+- name: "Abschluss Funktionalität"
+  punkte: 41.0
+  bemerkung: null
+  gewicht: 6.0
+  min: 0.0
+  max: 41.0
+  kriteriumBewertung: "1.0"
+- name: "Abschluss CleanCode"
+  punkte: 7.0
+  bemerkung: null
+  gewicht: 6.0
+  min: 0.0
+  max: 8.0
+  kriteriumBewertung: "0.875"
+- name: "Abschluss Klassenaufteilung"
+  punkte: 3.0
+  bemerkung: null
+  gewicht: 3.0
+  min: 0.0
+  max: 3.0
+  kriteriumBewertung: "1.0"
+- name: "Abschluss Test"
+  punkte: 5.0
+  bemerkung: null
+  gewicht: 5.0
+  min: 0.0
+  max: 5.0
+  kriteriumBewertung: "1.0"
+- name: "Abschluss Dokumentation"
+  punkte: 6.0
+  bemerkung: null
+  gewicht: 6.0
+  min: 0.0
+  max: 6.0
+  kriteriumBewertung: "1.0"
+- name: "Abschluss Beitrag"
+  punkte: 4.0
+  bemerkung: null
+  gewicht: 4.0
+  min: 0.0
+  max: 4.0
+  kriteriumBewertung: "1.0"
